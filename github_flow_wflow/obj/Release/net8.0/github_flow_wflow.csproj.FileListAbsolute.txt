@@ -1,0 +1,15 @@
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\bin\Release\net8.0\github_flow_wflow.exe
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\bin\Release\net8.0\github_flow_wflow.deps.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\bin\Release\net8.0\github_flow_wflow.runtimeconfig.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\bin\Release\net8.0\github_flow_wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\bin\Release\net8.0\github_flow_wflow.pdb
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\obj\Release\net8.0\github_flow_wflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\obj\Release\net8.0\github_flow_wflow.AssemblyInfoInputs.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\obj\Release\net8.0\github_flow_wflow.AssemblyInfo.cs
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\obj\Release\net8.0\github_flow_wflow.csproj.CoreCompileInputs.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\obj\Release\net8.0\github_flow_wflow.sourcelink.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\obj\Release\net8.0\github_flow_wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\obj\Release\net8.0\refint\github_flow_wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\obj\Release\net8.0\github_flow_wflow.pdb
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\obj\Release\net8.0\github_flow_wflow.genruntimeconfig.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\github_flow_workflow\github_flow_wflow\obj\Release\net8.0\ref\github_flow_wflow.dll
